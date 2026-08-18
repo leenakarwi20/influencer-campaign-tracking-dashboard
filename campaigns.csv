@@ -1,0 +1,11 @@
+campaign_id,brand,creator,platform,content_type,status,publication_date,views,likes,comments,engagement_rate
+CAMP001,Brand A,Creator 1,Instagram,Reel,Completed,2026-04-22,128000,7400,320,6.03
+CAMP002,Brand B,Creator 2,TikTok,Video,Completed,2026-04-28,214000,15600,510,7.53
+CAMP003,Brand C,Creator 3,Instagram,Story,Completed,2026-05-03,96000,4100,180,4.46
+CAMP004,Brand D,Creator 1,Instagram,Reel,In Progress,2026-05-18,0,0,0,0
+CAMP005,Brand E,Creator 4,TikTok,Video,Completed,2026-05-25,187000,12100,430,6.70
+CAMP006,Brand F,Creator 2,Instagram,Carousel,Completed,2026-06-02,84000,3600,140,4.45
+CAMP007,Brand G,Creator 5,Instagram,Reel,Pending Approval,2026-06-12,0,0,0,0
+CAMP008,Brand H,Creator 3,TikTok,Video,Completed,2026-06-20,245000,18900,620,7.97
+CAMP009,Brand I,Creator 4,Instagram,Reel,In progress,2026-06-29,0,0,0,0
+CAMP010,Brand J,Creator 5,Instagram,Story,Completed,2026-07-05,103000,4700,210,4.77
